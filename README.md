@@ -72,4 +72,4 @@ Currently, the model looks at **actual** past behavior. My next step is to build
 
 ## **General Info**
 
-- See the notebook for data cleaning, visualization, and analysis in the [Python Notebook]().
+- See the notebook for data cleaning, visualization, and analysis in the [Python Notebook](https://github.com/Khanh-Lu/ROI-Driven-Customer-Segments/tree/main/Exploration).
