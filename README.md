@@ -12,36 +12,6 @@
   <img src="https://github.com/Khanh-Lu/ROI-Driven-Customer-Segments/blob/805cd1f90b54fcb299d49845283b98d46a15d3f0/Images/clusters_3d_offcial.png" alt="image alt" />
 </div>
 
-## 🛠️ Tech Stack & Core Concepts
-
-### **Languages & Libraries**
-<a href="https://www.python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-</a>
-<a href="https://pandas.pydata.org/">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
-</a>
-<a href="https://numpy.org/">
-    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
-</a>
-<a href="https://scikit-learn.org/">
-    <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white">
-</a>
-<a href="https://matplotlib.org/">
-    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-3C3F4D?logo=matplotlib&logoColor=white">
-</a>
-
-### **Methodology & Logic**
-<a href="https://en.wikipedia.org/wiki/K-means_clustering">
-    <img alt="K-Means" src="https://img.shields.io/badge/K--Means-FFCC00?logo=scikitlearn&logoColor=black">
-</a>
-<a href="https://en.wikipedia.org/wiki/RFM_(market_research)">
-    <img alt="RFM Analysis" src="https://img.shields.io/badge/RFM%20Analysis-007ACC?logo=analytics&logoColor=white">
-</a>
-<a href="https://en.wikipedia.org/wiki/Customer_lifetime_value">
-    <img alt="CLV Forecasting" src="https://img.shields.io/badge/CLV%20Forecasting-E10098?logo=chartdotjs&logoColor=white">
-</a>
-
 ---
 
 ## **Purpose**
@@ -99,6 +69,36 @@ Currently, the model looks at **actual** past behavior. My next step is to build
 - **LTV:CAC Target**: Recommendations follow a **3:1 ROI target**—every $1 spent targets $3 in return.
 
 ---
+
+## 🛠️ Tech Stack & Core Concepts
+
+### **Languages & Libraries**
+<a href="https://www.python.org/">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+</a>
+<a href="https://pandas.pydata.org/">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
+</a>
+<a href="https://numpy.org/">
+    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
+</a>
+<a href="https://scikit-learn.org/">
+    <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white">
+</a>
+<a href="https://matplotlib.org/">
+    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-3C3F4D?logo=matplotlib&logoColor=white">
+</a>
+
+### **Methodology & Logic**
+<a href="https://en.wikipedia.org/wiki/K-means_clustering">
+    <img alt="K-Means" src="https://img.shields.io/badge/K--Means-FFCC00?logo=scikitlearn&logoColor=black">
+</a>
+<a href="https://en.wikipedia.org/wiki/RFM_(market_research)">
+    <img alt="RFM Analysis" src="https://img.shields.io/badge/RFM%20Analysis-007ACC?logo=analytics&logoColor=white">
+</a>
+<a href="https://en.wikipedia.org/wiki/Customer_lifetime_value">
+    <img alt="CLV Forecasting" src="https://img.shields.io/badge/CLV%20Forecasting-E10098?logo=chartdotjs&logoColor=white">
+</a>
 
 ## **General Info**
 
